@@ -1,6 +1,6 @@
-baseURL = "https://miguelsimoni.github.io/hugo-initio-site/"
+baseURL = ""
 languageCode = "en-us"
-title = "Initio - Free, multipurpose html5 template by GetTemplate"
+title = "Air-sea modeling laboratory"
 theme = "hugo-initio"
 publishDir = "docs"
 
