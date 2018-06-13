@@ -5,8 +5,8 @@ theme = "hugo-initio"
 publishDir = "docs"
 
 [params]
-    name = "Anthony Russel"
-    description = "A mystery person"
+    name = "Air-sea modeling laboratory"
+    description = "Department of Atmospheric Sciences, Yonsei University"
     email = "anthony.russel42@example.com"
     phone = "+234 23 9873237"
     address = "234 Hidden Pond Road, Ashland City, TN 37015"
