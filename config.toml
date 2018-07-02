@@ -7,9 +7,9 @@ publishDir = "docs"
 [params]
     name = "Air-sea modeling laboratory"
     description = "Department of Atmospheric Sciences, Yonsei University"
-    email = "anthony.russel42@example.com"
-    phone = "+234 23 9873237"
-    address = "50 Yonser-ro nd Road, Ashland City, TN 37015"
+    email = "hajsong@yonsei.ac.kr"
+    phone = "+82 2 2123 2579"
+    address = "서울특별시 서대문구 연세로 50, 연세대학교 과학관 544호"
     year = 2018
     background = ""
     favicon = "images/gt_favicon.png"
@@ -31,8 +31,20 @@ publishDir = "docs"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "blog"
-    url = "/post/"
+    name = "Research"
+    url = "/Research/"
+    weight = 2
+[[menu.main]]
+    name = "People"
+    url = "/People/"
+    weight = 3
+[[menu.main]]
+    name = "Publication"
+    url = "/Publication/"
+    weight = 4
+[[menu.main]]
+    name = "News"
+    url = "/News/"
     weight = 5
 
 [params.disqus]
