@@ -7,14 +7,13 @@ weight = 4
 
 ### Manuscripts under review
 ------------
-+ **Song, H.**, M. C. Long, P. Gaube, I. Frenger, J. Marshall and D. J. McGillicuddy Jr.: Seasonal variation in
-the correlation between anomalies of sea level and chlorophyll in the Antarctic Circumpolar Current region
-_Geophys. Res. Lett._
++ Kelly, T, R. Goericke, M. Kahru, **Song, H.** and M. R. Stukel: CCE II: Spatial and interannual variability in export efficiency and the biological pump in an eastern boundary current upwelling system with substantial lateral advection. _Deep-Sea Res. Pt I_, in revision
 
 <br>
 
 ### Peer-reviewed paper
 --------------
++ **Song, H.**, M. C. Long, P. Gaube, I. Frenger, J. Marshall and D. J. McGillicuddy Jr. (2018), Seasonal variation in the correlation between anomalies of sea level and chlorophyll in the Antarctic Circumpolar Current region. _Geophys. Res. Lett._, 45, 5011-5019
 
 + Stukel, M. R., **H. Song**, R. Goericke, A. J. Miller (2017), The role of subduction and gravitational sinking in particle export, carbon sequestration, and the remineralization length scale in the California Current Ecosystem. _Limnol. Oceanogr._, doi:10.1002/lno.10636
 

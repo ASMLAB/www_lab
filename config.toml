@@ -1,11 +1,11 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Air-sea modeling laboratory"
+title = "Air-Sea Modeling laboratory"
 theme = "hugo-initio"
 publishDir = "docs"
 
 [params]
-    name = "Air-sea modeling laboratory"
+    name = "Air-Sea Modeling laboratory"
     description = "Department of Atmospheric Sciences, Yonsei University"
     email = "hajsong@yonsei.ac.kr"
     phone = "+82 2 2123 2579"
