@@ -1,5 +1,5 @@
 +++
-menu = "main"
+menu = "people"
 title = "People"
 type = "people"
 weight = 2

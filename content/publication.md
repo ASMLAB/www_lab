@@ -1,5 +1,5 @@
 +++
-menu = "main"
+menu = "publication"
 title = "Publication"
 type = "publication"
 weight = 4

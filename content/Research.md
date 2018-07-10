@@ -1,5 +1,5 @@
 +++
-menu = "main"
+menu = "research"
 title = "Research"
 type = "Research"
 weight = 3
