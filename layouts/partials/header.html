@@ -35,10 +35,18 @@
 		<h1 id="logo" class="text-center">
 			<img class="img-circle" src="{{ .Site.BaseURL }}images/labsymbol_bright.svg" alt="">
 			<span class="title">{{ .Site.Params.name }}</span>
-			<span class="tagline">{{ .Site.Params.description }}<br>
-				<a href="">{{ .Site.Params.email }}</a>
+			<span class="tagline">{{ .Site.Params.description }}<!--br>
+				<a href="">{{ .Site.Params.email }}</a-->
             </span>
 		</h1>
+            <br>
+            <br>
+            <br>
+            <br>
+            <div style="text-align: right; padding-right: 30px; margin-bottom: -50px;">
+            <a href="https://www.nasa.gov/multimedia/imagegallery/image_feature_1940.html">Image Source</a><br>
+           Credit: NASA
+            </div>
 	</div>
 
     {{ partial "menu.html" . }}
