@@ -7,7 +7,9 @@ weight = 4
 
 ### Manuscripts under review
 ------------
-+ Kelly, T, R. Goericke, M. Kahru, **Song, H.** and M. R. Stukel: CCE II: Spatial and interannual variability in export efficiency and the biological pump in an eastern boundary current upwelling system with substantial lateral advection. _Deep-Sea Res. Pt I_, in revision
++ Doddridge, E. W., J. Marshall, **H. Song**, M. Kelley and L. Nazarenko: Eddy compensation dampens Southern Ocean SST response to westerly wind trends. _Geophys. Res. Lett._, submitted
+
++ Kelly, T, R. Goericke, M. Kahru, **H. Song** and M. R. Stukel: CCE II: Spatial and interannual variability in export efficiency and the biological pump in an eastern boundary current upwelling system with substantial lateral advection. _Deep-Sea Res. Pt I_, in revision
 
 <br>
 
