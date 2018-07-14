@@ -1,7 +1,7 @@
 +++
 menu = "research"
 title = "Research"
-type = "Research"
+type = "research"
 weight = 3
 +++
 
