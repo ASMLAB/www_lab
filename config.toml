@@ -16,7 +16,7 @@ publishDir = "docs"
     DateForm = "January 2, 2006"
 
     showSubheader = true
-    showServices = true
+    showGroup = true
     showRecentWorks = true
     showDownload = false
     showClients = false
@@ -35,8 +35,8 @@ publishDir = "docs"
     url = "/research/"
     weight = 3
 [[menu.main]]
-    name = "People"
-    url = "/people/"
+    name = "Group"
+    url = "/group/"
     weight = 2
 [[menu.main]]
     name = "Publication"

@@ -1,0 +1,70 @@
+[
+    {
+        "id": 0,
+        "name": "Hajoon Song",
+        "image": "images/people/HajoonSong.png",
+        "url": "group/hajoonsong",
+        "items": [
+            {
+                "name": "Web design",
+                "url": "#"
+            },
+            {
+                "name": "Wordpress",
+                "url": "#"
+            },
+            {
+                "name": "Logotype",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Ajin Cho",
+        "image": "images/s1.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "Web design",
+                "url": "#"
+            },
+            {
+                "name": "Wordpress",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Sanghyun Kim",
+        "image": "images/s1.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "Web design",
+                "url": "#"
+            },
+            {
+                "name": "Logotype",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Jiwoo Choi",
+        "image": "images/s1.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "Web design",
+                "url": "#"
+            },
+            {
+                "name": "Wordpress",
+                "url": "#"
+            }
+        ]
+    }
+]
