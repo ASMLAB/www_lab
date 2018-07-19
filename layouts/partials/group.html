@@ -2,10 +2,10 @@
 
     <h2 class="section-title"><span>Research Group</span></h2>
 
-    <div class="thumbnails recentworks">
+    <div class="groups recentworks">
         {{ range $index, $area := .Site.Data.group }}
             <div class="col-sm-6 col-md-3">
-                <a class="thumbnail" href="{{ .url }}">
+                <a class="group" href="{{ .url }}">
                     <span class="img">
                         <img src="{{ .image }}" alt="">
                         <span class="cover"><span class="more">See details &rarr;</span></span>
