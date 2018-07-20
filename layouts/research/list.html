@@ -9,16 +9,18 @@
 			<!-- Sidebar -->
 			<aside class="col-sm-2 sidebar sidebar-right">
 
+                        {{ $paginator := (.Paginate .Data.Pages) }}
+                        {{ range $paginator.Pages }}
 				<div class="nav text-right nav-side">
-					<li class="active"><a href="#">{{ .Title }}</a></li>
+					<li class="active"><a href="{{ .Permalink }}">{{ .Title }}</a></li>
 				</div>
-
+                        {{ end }}
 			</aside>
 			<!-- /Sidebar -->
 
 			<!-- Article main content -->
 			<article class="col-sm-10 maincontent">
-                {{ .Content }}
+                        {{ .Page.Content }}
 			</article>
 			<!-- /Article -->
 

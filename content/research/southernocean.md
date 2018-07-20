@@ -1,8 +1,8 @@
 +++
-menu = "research"
-title = "Research"
+title = "Southern Ocean"
 type = "research"
-weight = 3
+menu = "southernocean"
+weight = 1
 +++
 
 ### Southern Ocean
