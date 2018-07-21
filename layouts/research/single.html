@@ -7,13 +7,13 @@
 		<div class="row topspace">
 
 			<!-- Sidebar -->
-			<aside class="col-sm-2 sidebar sidebar-right">
+			<aside class="col-sm-3 sidebar sidebar-right">
 
                                 {{ $menu := .Params.Menu}}
 				<div class="nav text-right nav-side">
                                     {{ range where .Site.Pages "Section" "research"}}
                                     {{ if isset .Params "weight" }}
-                                    <li class="{{ if in .URL $menu }}active{{ end }}"><a href="{{ .URL }}">{{ .Title }}</a>
+                                    <li class="{{ if in .URL $menu }}active{{ end }}"><a href="{{ .URL }}#bs-example-navbar-collapse-1">{{ .Title }}</a>
                                     </li>
                                     {{ end }}
                                     {{ end }}
@@ -24,7 +24,7 @@
 			<!-- /Sidebar -->
 
 			<!-- Article main content -->
-			<article class="col-sm-10 maincontent">
+			<article class="col-sm-9 maincontent">
                         {{ .Content }}
 			</article>
 			<!-- /Article -->
