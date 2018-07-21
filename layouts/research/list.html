@@ -20,7 +20,13 @@
 
 			<!-- Article main content -->
 			<article class="col-sm-10 maincontent">
+                        {{ $paginator := (.Paginate .Data.Pages) }}
+                        {{ range $paginator.Pages }}
+                        .Params.Weight
+                        {{ if (eq .Params.weight "0") }}
                         {{ .Page.Content }}
+                        {{ end }}
+                        {{ end }}
 			</article>
 			<!-- /Article -->
 
