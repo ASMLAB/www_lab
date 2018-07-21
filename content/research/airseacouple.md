@@ -1,8 +1,8 @@
 +++
-title = "Southern Ocean"
+title = "Air-sea interactions"
 type = "research"
-menu = "southernocean"
-weight = 1
+menu = "interactions"
+weight = 4
 +++
 
 ### Southern Ocean
