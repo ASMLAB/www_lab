@@ -7,7 +7,7 @@
 		<div class="row topspace">
 
 			<!-- Sidebar -->
-			<aside class="col-sm-2 sidebar sidebar-right">
+			<aside class="col-sm-3 sidebar sidebar-right">
 
                         {{ $paginator := (.Paginate .Data.Pages) }}
                         {{ range $paginator.Pages }}
@@ -19,8 +19,13 @@
 			<!-- /Sidebar -->
 
 			<!-- Article main content -->
-			<article class="col-sm-10 maincontent">
-                        {{ .Page.Content }}
+			<article class="col-sm-9 maincontent">
+                        {{ $paginator := (.Paginate .Data.Pages) }}
+                        {{ range $paginator.Pages }}
+                        {{ if (eq .Title "Overall") }}
+                        {{ .Content }}
+                        {{ end }}
+                        {{ end }}
 			</article>
 			<!-- /Article -->
 
