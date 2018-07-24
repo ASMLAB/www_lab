@@ -1,12 +1,12 @@
 +++
-title = "Hajoon Song"
-nickname = "hajoonsong"
+title = "Ajin Cho"
+nickname = "ajincho"
 date = "2018-04-08T13:39:46+02:00"
-banner = "images/group/HajoonSong.png"
+banner = "images/group/AJIN_resized.png"
 email = "hajsong@yonsei.ac.kr"
-job = "PI"
+job = "Researcher"
 phone = "02-2123-2579"
-room = "Science Hall #544"
+room = "Science Hall #532"
 web = "http://hajsong.github.io"
 type = "group"
 weight = 10

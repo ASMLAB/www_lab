@@ -5,48 +5,65 @@
 	<div class="container">
 
 		<div class="row topspace">
-			<!--div class="col-sm-8 col-sm-offset-2"-->
-			<div class="col-sm-10 col-sm-offset-1">
 
- 				<article class="post">
-					<header class="entry-header">
- 						<!--div class="entry-meta">
- 							<span class="posted-on"><time class="entry-date published" date="{{ .Date }}">{{ dateFormat .Site.Params.DateForm .Date }}</time></span>
- 						</div-->
- 						<h1 class="entry-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h1>
-					</header>
-					<div class="entry-content">
-						{{ .Content }}
-					</div>
-				</article><!-- #post-## -->
+			<!-- Sidebar -->
+			<aside class="col-sm-3 sidebar sidebar-right">
 
-			</div>
-		</div> <!-- /row post  -->
-
-        <div class="row">
-			<div class="col-sm-8 col-sm-offset-2">
-
-				<div id="share">
-                    {{ if .Params.Share }}
-                       {{ partial "sharethis.html" . }}
-                    {{ end }}
+                                {{ $menu := .Params.nickname }}
+				<div class="nav text-right nav-side">
+                                    {{ range where .Site.Pages "Section" "group"}}
+                                    {{ if isset .Params "weight" }}
+                                    <li class="{{ if in .URL $menu }}active{{ end }}"><a href="{{ .URL }}#bs-example-navbar-collapse-1">{{ .Title }}</a>
+                                    </li>
+                                    {{ end }}
+                                    {{ end }}
+					<!--li class="active"><a href="#">{{ .Title }}</a></li-->
 				</div>
-			</div>
-		</div> <!-- /row share -->
-		<div class="clearfix"></div>
 
-		<div class="row">
-			<div class="col-sm-8 col-sm-offset-2">
+			</aside>
+			<!-- /Sidebar -->
 
-				<div id="comments">
-                    {{ if .Params.Comments }}
-                       {{ partial "disqus.html" . }}
-                    {{ end }}
-				</div>
-			</div>
-		</div> <!-- /row comments -->
-		<div class="clearfix"></div>
+			<!-- Article main content -->
+			<article class="col-sm-9 maincontent">
+                            <div class="col-sm-5">
+                                <div class="center-block" style="width:90%; max-width:200px;"><a href="{{ .Permalink }}">
+                                    <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" alt="" class="img-responsive"></a>
+                                </div>
+                            </div>
+                            <div class="col-sm-7">
+                             <table class="table table-borderless">
+                                    <tbody>
+                                        <tr>
+                                          <td style="text-align: right; padding-right: 10px;">Title :</td>
+                                          <td>{{ .Params.job }}</td>
+                                        </tr>
+                                        <tr>
+                                          <td style="text-align: right; padding-right: 10px;">email :</td>
+                                          <td>{{ .Params.email }}</td>
+                                        </tr>
+                                        <tr>
+                                          <td style="text-align: right; padding-right: 10px;">telephone :</td>
+                                          <td>{{ .Params.phone }}</td>
+                                        </tr>
+                                        <tr>
+                                          <td style="text-align: right; padding-right: 10px;">room :</td>
+                                          <td>{{ .Params.room }}</td>
+                                        </tr>
+                                        <tr>
+                                          <td style="text-align: right; padding-right: 10px;">webpage :</td>
+                                          <td><a href="{{ .Params.web }}">{{ .Params.web }}</a></td>
+                                        </tr>
+                                    </tbody>
+                                    </tbody>
+                                </table>
+                           </div>
+                           <br>
+                        {{ .Content }}
+			</article>
+			<!-- /Article -->
 
+
+		</div>
 	</div>	<!-- /container -->
 
 </main>
