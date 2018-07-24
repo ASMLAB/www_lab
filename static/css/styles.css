@@ -868,6 +868,26 @@ footer.entry-meta .meta-in {
     max-width: 1080px;
   }
 }
+/* Customized style */
+.table-borderless > tbody > tr > td,
+.table-borderless > tbody > tr > th,
+.table-borderless > tfoot > tr > td,
+.table-borderless > tfoot > tr > th,
+.table-borderless > thead > tr > td,
+.table-borderless > thead > tr > th {
+    border: none;
+}
+tbody td {
+    font-size: 120%;
+    /*font-weight: bold;*/
+}
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+  width: 200px;
+}
 /*********************************************************************
 
 

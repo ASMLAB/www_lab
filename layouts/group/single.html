@@ -25,44 +25,46 @@
 
 			<!-- Article main content -->
 			<article class="col-sm-9 maincontent">
+                            <h3 style="text-align: center;">{{ .Title }}</h3>
+                            <br>
+                            <br>
                             <div class="col-sm-5">
                                 <div class="center-block" style="width:90%; max-width:200px;"><a href="{{ .Permalink }}">
                                     <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" alt="" class="img-responsive"></a>
                                 </div>
                             </div>
-                            <div class="col-sm-7">
-                             <table class="table table-borderless">
-                                    <tbody>
-                                        <tr>
-                                          <td style="text-align: right; padding-right: 10px;">Title :</td>
-                                          <td>{{ .Params.job }}</td>
-                                        </tr>
-                                        <tr>
-                                          <td style="text-align: right; padding-right: 10px;">email :</td>
-                                          <td>{{ .Params.email }}</td>
-                                        </tr>
-                                        <tr>
-                                          <td style="text-align: right; padding-right: 10px;">telephone :</td>
-                                          <td>{{ .Params.phone }}</td>
-                                        </tr>
-                                        <tr>
-                                          <td style="text-align: right; padding-right: 10px;">room :</td>
-                                          <td>{{ .Params.room }}</td>
-                                        </tr>
-                                        <tr>
-                                          <td style="text-align: right; padding-right: 10px;">webpage :</td>
-                                          <td><a href="{{ .Params.web }}">{{ .Params.web }}</a></td>
-                                        </tr>
-                                    </tbody>
-                                    </tbody>
-                                </table>
-                           </div>
-                           <br>
+                            <div class="col-sm-6">
+                            <table class="table table-borderless">
+                                <tbody>
+                                    <tr>
+                                        <td style="text-align: right; padding-right: 10px;">Title :</td>
+                                        <td>{{ .Params.job }}</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="text-align: right; padding-right: 10px;">email :</td>
+                                        <td>{{ .Params.email }}</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="text-align: right; padding-right: 10px;">telephone :</td>
+                                        <td>{{ .Params.phone }}</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="text-align: right; padding-right: 10px;">room :</td>
+                                        <td>{{ .Params.room }}</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="text-align: right; padding-right: 10px;">webpage :</td>
+                                        <td><a href="{{ .Params.web }}">{{ .Params.web }}</a></td>
+                                    </tr>
+                                </tbody>
+                            </tbody>
+                        </table>
+                        <br>
+                        <br>
+                        </div>
                         {{ .Content }}
-			</article>
-			<!-- /Article -->
-
-
+		    </article>
+	            <!-- /Article -->
 		</div>
 	</div>	<!-- /container -->
 

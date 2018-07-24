@@ -4,12 +4,12 @@ nickname = "hajoonsong"
 date = "2018-04-08T13:39:46+02:00"
 banner = "images/group/HajoonSong.png"
 email = "hajsong@yonsei.ac.kr"
-job = "PI"
+job = "Assistant Professor"
 phone = "02-2123-2579"
 room = "Science Hall #544"
 web = "http://hajsong.github.io"
 type = "group"
-weight = 10
+weight = 1
 +++
 
 #### Education
