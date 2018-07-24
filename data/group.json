@@ -2,7 +2,7 @@
     {
         "id": 0,
         "name": "Hajoon Song",
-        "image": "images/people/HajoonSong.png",
+        "image": "images/group/HajoonSong.png",
         "url": "group/hajoonsong",
         "items": [
             {
@@ -22,7 +22,7 @@
     {
         "id": 1,
         "name": "Ajin Cho",
-        "image": "images/people/AJIN_resized.png",
+        "image": "images/group/AJIN_resized.png",
         "url": "#",
         "items": [
             {
@@ -38,7 +38,7 @@
     {
         "id": 2,
         "name": "Sanghyun Kim",
-        "image": "images/people/SANGHYUN_resized.png",
+        "image": "images/group/SANGHYUN_resized.png",
         "url": "#",
         "items": [
             {
@@ -54,7 +54,7 @@
     {
         "id": 3,
         "name": "Jiwoo Choi",
-        "image": "images/people/jiwoochoi.jpg",
+        "image": "images/group/jiwoochoi.jpg",
         "url": "#",
         "items": [
             {
