@@ -7,7 +7,7 @@ email = "vthyun94@yonsei.ac.kr"
 job = "Undergraduate Researcher"
 phone = "02-2123-2579"
 room = "Science Hall #532"
-web = "http://hajsong.github.io"
+web = ""
 type = "group"
 weight = 10
 +++
