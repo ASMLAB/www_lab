@@ -23,7 +23,7 @@
         "id": 1,
         "name": "Ajin Cho",
         "image": "images/group/AJIN_resized.png",
-        "url": "#",
+        "url": "group/ajincho",
         "items": [
             {
                 "name": "Web design",
@@ -39,7 +39,7 @@
         "id": 2,
         "name": "Sanghyun Kim",
         "image": "images/group/SANGHYUN_resized.png",
-        "url": "#",
+        "url": "group/sanghyunkim",
         "items": [
             {
                 "name": "Web design",
@@ -55,7 +55,7 @@
         "id": 3,
         "name": "Jiwoo Choi",
         "image": "images/group/jiwoochoi.jpg",
-        "url": "#",
+        "url": "group/jiwoochoi",
         "items": [
             {
                 "name": "Web design",
