@@ -22,8 +22,8 @@ publishDir = "docs"
     showClients = false
 
     footerEnableContact = true
-    footerEnableFollowme = true
-    footerEnableTextWidget = false
+    footerEnableFollowme = false
+    footerEnableTextWidget = true
     footerEnableFormWidget = false
 
 [[menu.main]]
@@ -64,7 +64,7 @@ publishDir = "docs"
     footer = false
     sharethis = true
     network = "facebook"
-[[params.social]] 
+[[params.social]]
     title = "twitter"
     url = "https://twitter.com/nickname"
     icon = "fa-twitter-square"
