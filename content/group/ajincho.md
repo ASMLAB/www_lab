@@ -9,7 +9,7 @@ phone = "02-2123-2579"
 room = "Science Hall #532"
 web = "http://hajsong.github.io"
 type = "group"
-weight = 10
+weight = 2
 +++
 
 #### Education

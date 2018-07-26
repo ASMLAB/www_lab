@@ -9,7 +9,7 @@ phone = "02-2123-2579"
 room = "Science Hall #532"
 web = ""
 type = "group"
-weight = 10
+weight = 3
 +++
 
 #### Awards
