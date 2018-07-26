@@ -5,18 +5,10 @@
         "image": "images/group/HajoonSong.png",
         "url": "group/hajoonsong",
         "items": [
-            {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Wordpress",
-                "url": "#"
-            },
-            {
-                "name": "Logotype",
-                "url": "#"
-            }
+          {
+              "name": "",
+              "url": ""
+          }
         ]
     },
     {
@@ -26,12 +18,8 @@
         "url": "group/ajincho",
         "items": [
             {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Wordpress",
-                "url": "#"
+                "name": "",
+                "url": ""
             }
         ]
     },
@@ -41,14 +29,10 @@
         "image": "images/group/SANGHYUN_resized.png",
         "url": "group/sanghyunkim",
         "items": [
-            {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Logotype",
-                "url": "#"
-            }
+          {
+            "name": "",
+            "url": ""
+          }
         ]
     },
     {
@@ -57,14 +41,10 @@
         "image": "images/group/jiwoochoi.jpg",
         "url": "group/jiwoochoi",
         "items": [
-            {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Wordpress",
-                "url": "#"
-            }
+          {
+              "name": "",
+              "url": ""
+          }
         ]
     }
 ]
