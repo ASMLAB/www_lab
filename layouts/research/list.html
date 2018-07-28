@@ -20,12 +20,8 @@
 
 			<!-- Article main content -->
 			<article class="col-sm-9 maincontent">
-                        {{ $paginator := (.Paginate .Data.Pages) }}
-                        {{ range $paginator.Pages }}
-                        {{ if (eq .Title "Overall") }}
+                        <h3>{{ with .Site.GetPage "section" "research" }}{{ .Title }}{{ end }}</h3>
                         {{ .Content }}
-                        {{ end }}
-                        {{ end }}
 			</article>
 			<!-- /Article -->
 

@@ -8,7 +8,6 @@
 
 			<!-- Sidebar -->
 			<aside class="col-sm-3 sidebar sidebar-right">
-
                         {{ $paginator := (.Paginate .Data.Pages) }}
                         {{ range $paginator.Pages }}
 				<div class="nav text-right nav-side">
@@ -20,12 +19,8 @@
 
 			<!-- Article main content -->
 			<article class="col-sm-9 maincontent">
-                        {{ $paginator := (.Paginate .Data.Pages) }}
-                        {{ range $paginator.Pages }}
-                        {{ if (eq .Title "Overall") }}
+                        <h3>{{ with .Site.GetPage "section" "group" }}{{ .Title }}{{ end }}</h3>
                         {{ .Content }}
-                        {{ end }}
-                        {{ end }}
 			</article>
 			<!-- /Article -->
 
