@@ -12,7 +12,10 @@ type = "group"
 weight = 3
 +++
 
+#### Education
++ **B.S.** (expected in 2020) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
+
 #### Awards
-+ 2014-1,2 : 우수상 수상
-+ 2014-2   : 진리장학금 수상
-+ 2015~    : 정수장학회 장학생
++ 2014 : Awarded Honors (2014-1), School Scholarship (2014-2)
++ 2015 : Awarded Honors (2015-1), Chungsoo Scholarship
++ 2018 : Chungsoo Scholarship
