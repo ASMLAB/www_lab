@@ -1,21 +1,13 @@
 [
     {
         "id": 0,
-        "name": "Sample title - big data solutions",
+        "name": "Chlorophyll in the Southern Ocean",
         "image": "images/s1.jpg",
         "url": "highlight/highlight1",
         "items": [
             {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Wordpress",
-                "url": "#"
-            },
-            {
-                "name": "Logotype",
-                "url": "#"
+                "name": "Read More",
+                "url": "highlight/highlight1"
             }
         ]
     },
@@ -26,11 +18,7 @@
         "url": "#",
         "items": [
             {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Wordpress",
+                "name": "Read More",
                 "url": "#"
             }
         ]
@@ -42,59 +30,7 @@
         "url": "#",
         "items": [
             {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Logotype",
-                "url": "#"
-            }
-        ]
-    },
-    {
-        "id": 3,
-        "name": "Pure ipsum - development services for people",
-        "image": "images/s1.jpg",
-        "url": "#",
-        "items": [
-            {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Wordpress",
-                "url": "#"
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "name": "Lorem studios - interior and patio design",
-        "image": "images/s1.jpg",
-        "url": "#",
-        "items": [
-            {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Logotype",
-                "url": "#"
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "name": "Lorem studios - interior and patio design",
-        "image": "images/s1.jpg",
-        "url": "#",
-        "items": [
-            {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Logotype",
+                "name": "Read More",
                 "url": "#"
             }
         ]
