@@ -44,7 +44,7 @@ publishDir = "docs"
     weight = 4
 [[menu.main]]
     name = "News"
-    url = "/post/"
+    url = "/news/"
     weight = 5
 
 [params.disqus]
