@@ -18,7 +18,7 @@ publishDir = "docs"
     showSubheader = true
     showGroup = true
     showRecentWorks = true
-    showDownload = false
+    showDownload = false 
     showClients = false
 
     footerEnableContact = true
@@ -113,3 +113,7 @@ publishDir = "docs"
     footer = true
     sharethis = true
     network = "email"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"

@@ -1,0 +1,27 @@
+{{ partial "header.html" . }}
+
+<main id="main">
+
+	<div class="container">
+
+		<div class="row topspace">
+
+                        <!-- Sidebar -->
+                        <aside class="col-sm-3 sidebar sidebar-right">
+                            {{ partial "categories.html" . }}
+                        </aside>
+                        <!-- /Sidebar -->
+
+			<!-- Article main content -->
+			<article class="col-sm-9 maincontent">
+                        {{ .Content }}
+			</article>
+			<!-- /Article -->
+
+
+		</div>
+	</div>	<!-- /container -->
+
+</main>
+
+{{ partial "footer.html" . }}

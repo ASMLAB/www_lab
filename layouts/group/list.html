@@ -9,11 +9,11 @@
 			<!-- Sidebar -->
 			<aside class="col-sm-3 sidebar sidebar-right">
                         {{ $paginator := (.Paginate .Data.Pages) }}
-                        {{ range $paginator.Pages }}
-				<div class="nav text-right nav-side">
-					<li class="active"><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-				</div>
-                        {{ end }}
+			    <div class="nav text-right nav-side">
+                            {{ range $paginator.Pages }}
+			        <li class="active"><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                            {{ end }}
+			    </div>
 			</aside>
 			<!-- /Sidebar -->
 

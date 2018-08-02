@@ -10,15 +10,15 @@
 			<aside class="col-sm-3 sidebar sidebar-right">
 
                                 {{ $menu := .Params.Menu}}
-				<div class="nav text-right nav-side">
                                     {{ range where .Site.Pages "Section" "research"}}
                                     {{ if isset .Params "weight" }}
-                                    <li class="{{ if in .URL $menu }}active{{ end }}"><a href="{{ .URL }}#bs-example-navbar-collapse-1">{{ .Title }}</a>
+				<div class="nav text-right nav-side">
+                                    <li class="{{ if in .URL $menu }}active{{ end }}"><a href="{{ .URL }}#anchor">{{ .Title }}</a>
                                     </li>
+                                </div>
                                     {{ end }}
                                     {{ end }}
 					<!--li class="active"><a href="#">{{ .Title }}</a></li-->
-				</div>
 
 			</aside>
 			<!-- /Sidebar -->

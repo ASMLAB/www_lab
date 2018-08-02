@@ -13,7 +13,7 @@
 				<div class="nav text-right nav-side">
                                     {{ range where .Site.Pages "Section" "group"}}
                                     {{ if isset .Params "weight" }}
-                                    <li class="{{ if in .URL $menu }}active{{ end }}"><a href="{{ .URL }}#bs-example-navbar-collapse-1">{{ .Title }}</a>
+                                    <li class="{{ if in .URL $menu }}active{{ end }}"><a href="{{ .URL }}#anchor">{{ .Title }}</a>
                                     </li>
                                     {{ end }}
                                     {{ end }}

@@ -1,0 +1,10 @@
+{{ if isset .Site.Taxonomies "categories" }}
+{{ if not (eq (len .Site.Taxonomies.categories) 0) }}
+<div class="nav text-right nav-side">
+    {{ range $name, $items := .Site.Taxonomies.categories }}
+    <li class="active"><a href="{{ $.Site.BaseURL }}categories/{{ $name | urlize | lower }}/#anchor">{{ $name }}</a>
+    </li>
+    {{ end }}
+</div>
+{{ end }}
+{{ end }}
