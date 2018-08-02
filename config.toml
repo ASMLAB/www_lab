@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://asmlab.github.io/"
 languageCode = "en-us"
 title = "Air-Sea Modeling laboratory"
 theme = "hugo-initio"
@@ -55,7 +55,7 @@ theme = "hugo-initio"
     custom = true
 
 [params.google.analytics]
-    trackerID = "GA-000000000-0"
+    trackerID = "UA-123271309-1"
 
 [[params.social]]
     title = "facebook"
