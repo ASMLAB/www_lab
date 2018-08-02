@@ -14,7 +14,14 @@
 
 			<!-- Article main content -->
 			<article class="col-sm-9 maincontent">
-                        {{ .Content }}
+                            <div class="entry-meta">
+                                <span class="posted-on">
+                                    <time class="entry-date published" date="{{ .Date }}">
+                                        {{ dateFormat .Site.Params.DateForm .Date }}
+                                    </time>
+                                </span>
+                            </div>
+                            {{ .Content }}
 			</article>
 			<!-- /Article -->
 

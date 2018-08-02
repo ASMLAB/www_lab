@@ -2,7 +2,7 @@ baseURL = ""
 languageCode = "en-us"
 title = "Air-Sea Modeling laboratory"
 theme = "hugo-initio"
-publishDir = "docs"
+#publishDir = "docs"
 
 [params]
     name = "Air-Sea Modeling laboratory"
