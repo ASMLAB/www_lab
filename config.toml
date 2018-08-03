@@ -1,11 +1,11 @@
 baseURL = "https://asmlab.github.io/"
 languageCode = "en-us"
-title = "Air-Sea Modeling laboratory"
+title = "Air-Sea Modeling Laboratory"
 theme = "hugo-initio"
 #publishDir = "docs"
 
 [params]
-    name = "Air-Sea Modeling laboratory"
+    name = "Air-Sea Modeling Laboratory"
     description = "Department of Atmospheric Sciences, Yonsei University"
     email = "hajsong@yonsei.ac.kr"
     phone = "+82 2 2123 2579"
@@ -116,4 +116,3 @@ theme = "hugo-initio"
 
 [taxonomies]
   category = "categories"
-  tag = "tags"
