@@ -3,35 +3,35 @@
         "id": 0,
         "name": "Chlorophyll in the Southern Ocean",
         "image": "images/corrcoef_ssh_chl_mld_season.png",
-        "url": "highlight/highlight1",
+        "url": "news/paper1",
         "items": [
             {
                 "name": "Read More",
-                "url": "highlight/highlight1"
+                "url": "news/paper1"
             }
         ]
     },
     {
         "id": 1,
-        "name": "Pure ipsum - development services for people",
-        "image": "images/yonseiuniv.jpg",
-        "url": "#",
+        "name": "Our new lab members!",
+        "image": "images/STOCK_Welcome3.jpg",
+        "url": "news/new_members",
         "items": [
             {
                 "name": "Read More",
-                "url": "#"
+                "url": "news/new_members"
             }
         ]
     },
     {
         "id": 2,
-        "name": "Lorem studios - interior and patio design",
-        "image": "images/STOCK_Welcome3.jpg",
-        "url": "#",
+        "name": "A start of the Air-sea modeling laboratory",
+        "image": "images/yonseiuniv.jpg",
+        "url": "news/labopen",
         "items": [
             {
                 "name": "Read More",
-                "url": "#"
+                "url": "news/labopen"
             }
         ]
     }
