@@ -17,5 +17,5 @@ weight = 3
 
 #### Awards
 + 2014 : Awarded Honors (2014-1), School Scholarship (2014-2)
-+ 2015 : Awarded Honors (2015-1), Chungsoo Scholarship
++ 2015 : Awarded Honors (2014-2), Chungsoo Scholarship
 + 2018 : Chungsoo Scholarship
