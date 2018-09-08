@@ -4,7 +4,7 @@ type = "group"
 +++
 
 <div class='image'>
-<img src="/images/bg_head.jpg" class="img-responsive; width:50%;" alt="">
+<img src="/images/groupphoto.jpg" class="img-responsive; width:40%;" alt="">
 </div>
 <br>
 We are Air-Sea Modeling laboratory.
