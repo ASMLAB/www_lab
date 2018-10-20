@@ -1,7 +1,7 @@
 +++
 title = "Seminar at KOPRI"
 date = 2018-10-19T23:03:07+09:00
-categories = ""
+categories = "seminar"
 type = "news"
 icon = ""
 +++

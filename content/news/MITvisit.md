@@ -1,7 +1,7 @@
 +++
 title = "MIT visit"
 date = 2018-09-04T17:44:46+09:00
-categories = ""
+categories = "news"
 type = "news"
 icon = "bullhorn"
 +++
