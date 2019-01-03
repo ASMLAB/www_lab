@@ -14,4 +14,6 @@ weight = 5
 
 #### Education
 + **B.S.** 2012 Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
-+ The Weather Group in the Air Force as a Weather Officer(1st Lt)
+
+#### Experiences
++ 2012-2015 The Weather Group in the Air Force as a Weather Officer(1st Lt)
