@@ -1,8 +1,8 @@
 +++
 title = "Chunil Namgung"
 nickname = "silvan"
-date = "2019-01-03T17:00:00+00:00"
-banner = "images/group/Chunil.png"
+date = "2018-04-08T13:39:46+02:00"
+banner = "images/group/Chunil.jpg"
 email = "silvan@yonsei.ac.kr"
 job = "Researcher"
 phone = "+82-2-2123-2579"
