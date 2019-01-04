@@ -46,5 +46,17 @@
               "url": ""
           }
         ]
+    },
+    {
+        "id": 4,
+        "name": "Chunil Namgung",
+        "image": "images/group/Chunil.jpg",
+        "url": "group/chunilnamgung",
+        "items": [
+          {
+              "name": "",
+              "url": ""
+          }
+        ]
     }
 ]
