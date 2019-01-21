@@ -16,4 +16,4 @@ weight = 5
 + **B.S.** 2012 Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### Experiences
-+ 2012-2015 The Weather Group in the Air Force as a Weather Officer(1st Lt)
++ 2012-2015 Weather Forecast Officer(Lieutenant), the Republic of Korean Air Force, Korea
