@@ -7,14 +7,16 @@ weight = 4
 
 ### Manuscripts under review
 ------------
-+ Doddridge, E. W., J. Marshall, **H. Song**, M. Kelley and L. Nazarenko: Eddy compensation dampens Southern Ocean SST response to westerly wind trends. _Geophys. Res. Lett._, submitted
++ Doddridge, E. W., J. Marshall, **H. Song**, M. Kelley and L. Nazarenko: Eddy compensation dampens Southern Ocean SST response to westerly wind trends. _Geophys. Res. Lett._, in revision
 
-+ Kelly, T, R. Goericke, M. Kahru, **H. Song** and M. R. Stukel: CCE II: Spatial and interannual variability in export efficiency and the biological pump in an eastern boundary current upwelling system with substantial lateral advection. _Deep-Sea Res. Pt I_, in revision
++ **Song, H.**, J. Marshall, J-M Campin and D. J. McGillicuddy: Impact of near-inertial waves on vertical mixing and air-sea CO2 fluxes in the Southern Ocean. _J. Geophys. Res. Oceans._, in revision
 
 <br>
 
 ### Peer-reviewed paper
 --------------
++ Kelly, T, R. Goericke, M. Kahru, **H. Song** and M. R. Stukel: CCE II: Spatial and interannual variability in export efficiency and the biological pump in an eastern boundary current upwelling system with substantial lateral advection. _Deep-Sea Res. Pt I_, 140, 14-25
+
 + **Song, H.**, M. C. Long, P. Gaube, I. Frenger, J. Marshall and D. J. McGillicuddy Jr. (2018), Seasonal variation in the correlation between anomalies of sea level and chlorophyll in the Antarctic Circumpolar Current region. _Geophys. Res. Lett._, 45, 5011-5019
 
 + Stukel, M. R., **H. Song**, R. Goericke, A. J. Miller (2017), The role of subduction and gravitational sinking in particle export, carbon sequestration, and the remineralization length scale in the California Current Ecosystem. _Limnol. Oceanogr._, doi:10.1002/lno.10636

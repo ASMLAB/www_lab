@@ -13,30 +13,18 @@
     },
     {
         "id": 1,
-        "name": "Ajin Cho",
-        "image": "images/group/AJIN_resized.png",
-        "url": "group/ajincho",
-        "items": [
-            {
-                "name": "",
-                "url": ""
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "name": "Sanghyun Kim",
-        "image": "images/group/SANGHYUN_resized.png",
-        "url": "group/sanghyunkim",
+        "name": "Chunil Namgung",
+        "image": "images/group/Chunil.jpg",
+        "url": "group/chunilnamgung",
         "items": [
           {
-            "name": "",
-            "url": ""
+              "name": "",
+              "url": ""
           }
         ]
     },
     {
-        "id": 3,
+        "id": 2,
         "name": "Jiwoo Choi",
         "image": "images/group/jiwoochoi.jpg",
         "url": "group/jiwoochoi",
@@ -48,14 +36,26 @@
         ]
     },
     {
+        "id": 3,
+        "name": "Ajin Cho",
+        "image": "images/group/AJIN_resized.png",
+        "url": "group/ajincho",
+        "items": [
+            {
+                "name": "",
+                "url": ""
+            }
+        ]
+    },
+    {
         "id": 4,
-        "name": "Chunil Namgung",
-        "image": "images/group/Chunil.jpg",
-        "url": "group/chunilnamgung",
+        "name": "Sanghyun Kim",
+        "image": "images/group/SANGHYUN_resized.png",
+        "url": "group/sanghyunkim",
         "items": [
           {
-              "name": "",
-              "url": ""
+            "name": "",
+            "url": ""
           }
         ]
     }

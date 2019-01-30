@@ -1,8 +1,8 @@
 +++
-title = "Southern Ocean"
+title = "Ocean circulation"
 type = "research"
 menu = "southernocean"
-weight = 1
+weight = 3
 +++
 
 ### Southern Ocean
@@ -22,4 +22,3 @@ While investigating the role of mesoscale eddies using both observations and num
 ### Patagonian shelf
 
 Patagonian shelf, located in the southwest Atlantic ocean, is one of the regions of the biggest CO2 uptake due to the high productivity. I investigate the nutrient sources that support the ecosystem in the Patagonian shelf area using an adjoint sensitivity analysis with passive tracers. This computationally efficient method identifies three major nutrient sources: local area, Chilean coastal area and deep southeast Pacific. It also shows that the wintertime vertical mixing is one of the key processes that deliver nutrients to the Patagonian shelf region as shown in Figure 3. Guided by the adjoint experiments, I also performed a series of forward model with nutrient perturbations at the source regions. The forward biogeochemical integrations support the source water regions for the Patagonian shelf are also the sources of the nutrients. The manuscript that describes this study is under review, and I will provide it when it is published. Check out the story at [<U>mitgcm.org</U>](http://mitgcm.org/2016/04/20/shelf-life/)
-

@@ -1,15 +1,15 @@
 +++
 title = "Chunil Namgung"
-nickname = "silvan"
+nickname = "chunilnamgung"
 date = "2018-04-08T13:39:46+02:00"
 banner = "images/group/Chunil.jpg"
 email = "silvan@yonsei.ac.kr"
-job = "Researcher"
+job = "Researcher (2018.10 -)"
 phone = "+82-2-2123-2579"
 room = "Science Hall #532"
 web = "https://silvanatmosphere.github.io/blog/"
 type = "group"
-weight = 5
+weight = 2
 +++
 
 #### Education

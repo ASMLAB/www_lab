@@ -4,12 +4,12 @@ nickname = "sanghyunkim"
 date = "2018-04-08T13:39:46+02:00"
 banner = "images/group/SANGHYUN_resized.png"
 email = "vthyun94@yonsei.ac.kr"
-job = "Undergraduate Researcher"
+job = "Undergraduate Researcher (2018.6 - 12)"
 phone = "+82-2-2123-2579"
 room = "Science Hall #532"
 web = ""
 type = "group"
-weight = 3
+weight = 5
 +++
 
 #### Education
