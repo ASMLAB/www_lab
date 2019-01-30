@@ -7,7 +7,7 @@ type = "group"
 <br>
 ##### December 20th, 2018
 <div class='image'>
-<img src="/images/groupphoto_20181220.jpg" class="img-responsive; width:40%;" alt="">
+<img src="/images/Group_photo_20190130.jpg" class="img-responsive; width:40%;" alt="">
 </div>
 <br>
 
