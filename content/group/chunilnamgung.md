@@ -22,5 +22,5 @@ weight = 5
 + 2008 National Science and Engineering Scholarship (2008-1)
 + 2009 National Science and Engineering Scholarship (2009-1,2)
 + 2010 School Scholarship (2010-1)
-+ 2010 Lotte Scholarship (2010-2)
-+ 2011 Lotte Scholarship (2011-1,2)
++ 2010 Lotte Foundation Scholarship (2010-2)
++ 2011 Lotte Foundation Scholarship (2011-1,2)
