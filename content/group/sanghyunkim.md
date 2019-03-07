@@ -9,7 +9,7 @@ phone = "+82-2-2123-2579"
 room = "Science Hall #532"
 web = ""
 type = "group"
-weight = 5
+weight = 102
 +++
 
 #### Education

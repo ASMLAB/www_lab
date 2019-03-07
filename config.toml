@@ -9,7 +9,7 @@ theme = "hugo-initio"
     description = "Department of Atmospheric Sciences, Yonsei University"
     email = "hajsong@yonsei.ac.kr"
     phone = "+82 2 2123 2579"
-    address = "Science Hall #544, 50 Yonsei-ro Seodaemun-gu, Seoul, Korea"
+    address = "Science Hall #532, 50 Yonsei-ro Seodaemun-gu, Seoul, Korea"
     year = 2018
     background = "hi"
     favicon = "images/gt_favicon.png"
@@ -18,7 +18,7 @@ theme = "hugo-initio"
     showSubheader = true
     showGroup = true
     showRecentWorks = true
-    showDownload = false 
+    showDownload = false
     showClients = false
 
     footerEnableContact = true

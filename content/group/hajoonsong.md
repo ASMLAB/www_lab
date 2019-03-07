@@ -26,7 +26,8 @@ weight = 1
 
 #### Research Experiences
 + 2018.3 - : Assistant Professor, Department of Atmospheric Sciences, Yonsei Univ. Seoul, Korea
-+ 2018.7 - 2018.8 : Visiting Scholar, MIT, Cambridge, USA
++ 2019.2 : Visiting Professor, MIT, Cambridge, USA
++ 2018.7 - 2018.8: Visiting Scholar, MIT, Cambridge, USA
 + 2013-2018.2: Research Scientist / Postdoctoral Associate, MIT, Cambridge, USA
 + 2011-2013: Postdoctoral Associate, University of California, Santa Cruz, USA
 + 2005-2011: Assistant Researcher, Scripps Institution of Oceanography, La Jolla, USA

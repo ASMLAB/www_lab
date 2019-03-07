@@ -25,9 +25,9 @@
     },
     {
         "id": 2,
-        "name": "Jiwoo Choi",
-        "image": "images/group/jiwoochoi.jpg",
-        "url": "group/jiwoochoi",
+        "name": "Suji Gwak",
+        "image": "images/group/sujigwak.png",
+        "url": "group/sujigwak",
         "items": [
           {
               "name": "",
@@ -37,26 +37,14 @@
     },
     {
         "id": 3,
-        "name": "Ajin Cho",
-        "image": "images/group/AJIN_resized.png",
-        "url": "group/ajincho",
+        "name": "Jiwoo Choi",
+        "image": "images/group/jiwoochoi.jpg",
+        "url": "group/jiwoochoi",
         "items": [
             {
                 "name": "",
                 "url": ""
             }
-        ]
-    },
-    {
-        "id": 4,
-        "name": "Sanghyun Kim",
-        "image": "images/group/SANGHYUN_resized.png",
-        "url": "group/sanghyunkim",
-        "items": [
-          {
-            "name": "",
-            "url": ""
-          }
         ]
     }
 ]

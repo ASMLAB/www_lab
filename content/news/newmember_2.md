@@ -6,7 +6,7 @@ icon = "bullhorn"
 type = "news"
 +++
 
-### New members
+### A New Member
 <div class='image'>
 <img src="/images/group/Chunil.jpg" class="img-responsive; width:50%;" alt="">
 </div>
