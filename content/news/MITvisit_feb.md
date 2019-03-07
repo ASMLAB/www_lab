@@ -12,12 +12,13 @@ As in last summer, he collaborated with Professor John Marshall and Dr. MaryamRa
 
 Using the state-of-art ocean circulation model, we tried to explain the salinity maximum in the subsurface of Arabian Sea observed in situ measurements and autonomous floats, Argo.
 
-I was told that this winter was mild one week before I visited.
-Even though it snowed during my stay, the weather became warm again.
+He was told that this winter has been mild until a very cold air mass covered the area one week before he visited.
+Even though it snowed during his stay, the weather became warm again.
 On the Charles River, there were numerous "pancakes" of ice, telling that the winter was ready to retreat.
-BUT don't be off guard. You never know when winter revisits until April (from my experience).
+BUT don't be off guard. You never know when winter revisits until April (from his experience).
 
-- *Apparently, a big snow storm visited Boston one week after I left.*
+- *Apparently, a big snow storm visited Boston one week after he left.*
+
 <br>
 
 <div class='image'>
