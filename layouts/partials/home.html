@@ -6,6 +6,10 @@
             {{ partial "subheader.html" . }}
         {{ end }}
 
+		{{ if .Site.Params.showSubheader }}
+            {{ partial "subheader1.html" . }}
+        {{ end }}
+
         {{ if .Site.Params.showRecentWorks }}
             {{ partial "recentworks.html" . }}
         {{ end }}
