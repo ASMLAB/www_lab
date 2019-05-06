@@ -7,6 +7,8 @@ weight = 4
 
 ### Manuscripts under review
 ------------
++ Seo, H., A. C. Subramanian, **Song, H.**, Chowdary, J. S.: Coupled effects of ocean current on wind stress in the Bay of Bengal: Eddy energetics and upper ocean stratification, Deep Sea Research II, in revision
+
 + **Song, H.**, J. Marshall, J-M Campin and D. J. McGillicuddy: Impact of near-inertial waves on vertical mixing and air-sea CO2 fluxes in the Southern Ocean. _J. Geophys. Res. Oceans._, in revision
 
 <br>
@@ -23,7 +25,7 @@ weight = 4
 
 + Stukel, M. R., L. I. Aluwihare, K. A. Barbeau, A. M. Chekalyuk, R. Goericke, A. J. Miller, M. D. Ohman, A. Ruacho, **H. Song**, B. Stephens and M. R. Landry (2017), Deepwater mesoscale fronts enhance export in the California Current Ecosystem. _PNAS_, 114, 1252-1257
 
-+ Mattern, J. P., **H. Song**, C. A. Edward, A. M. Moore and J. Fiechter (2017) Data assimilation of physical and chlorophyll observations in the California Current System using two biogeochemical models. _Ocean Model._, 109, 55-71
++ Mattern, J. P., **H. Song**, C. A. Edward, A. M. Moore and J. Fiechter (2017), Data assimilation of physical and chlorophyll observations in the California Current System using two biogeochemical models. _Ocean Model._, 109, 55-71
 
 + **Song, H.**, J. Marshall, D. R. Munro, S. Dutkiewicz, C. Sweeney, D. J. McGillicuddy Jr. and U. Hausmann (2016): Mesoscale modulation of air-sea CO<sub>2</sub> flux in Drake Passage. _J. Geophys. Res. Oceans._, 121, 6635-6649
 
