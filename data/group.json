@@ -25,6 +25,18 @@
     },
     {
         "id": 2,
+        "name": "Ajin Cho",
+        "image": "images/group/AJIN_resized.png",
+        "url": "group/ajincho",
+        "items": [
+          {
+              "name": "",
+              "url": ""
+          }
+        ]
+    },
+    {
+        "id": 3,
         "name": "Suji Gwak",
         "image": "images/group/sujigwak.png",
         "url": "group/sujigwak",
@@ -36,7 +48,7 @@
         ]
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "Jiwoo Choi",
         "image": "images/group/jiwoochoi.jpg",
         "url": "group/jiwoochoi",
