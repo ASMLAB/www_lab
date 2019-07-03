@@ -1,13 +1,13 @@
 [
     {
         "id": 0,
-        "name": "Near-inertial waves and the air-sea CO2 exchange",
-        "image": "images/Fig1.png",
-        "url": "news/paper2",
+        "name": "Chlorophyll in the Southern Ocean",
+        "image": "images/corrcoef_ssh_chl_mld_season.png",
+        "url": "news/paper1",
         "items": [
             {
                 "name": "Read More",
-                "url": "news/paper2"
+                "url": "news/paper1"
             }
         ]
     },
@@ -32,6 +32,18 @@
             {
                 "name": "Read More",
                 "url": "news/newmember_3"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "A start of the Air-sea modeling laboratory",
+        "image": "images/yonseiuniv.jpg",
+        "url": "news/labopen",
+        "items": [
+            {
+                "name": "Read More",
+                "url": "news/labopen"
             }
         ]
     }

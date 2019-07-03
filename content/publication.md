@@ -9,12 +9,14 @@ weight = 4
 ------------
 + Seo, H., A. C. Subramanian, **Song, H.**, Chowdary, J. S.: Coupled effects of ocean current on wind stress in the Bay of Bengal: Eddy energetics and upper ocean stratification, Deep Sea Research II, in revision
 
-+ **Song, H.**, J. Marshall, J-M Campin and D. J. McGillicuddy: Impact of near-inertial waves on vertical mixing and air-sea CO2 fluxes in the Southern Ocean. _J. Geophys. Res. Oceans._, in revision
++ Seaver Wang, Sven Kranz, Thomas Kelly, **Hajoon Song**, Michael Stukel, Nicolas Cassar: Lagrangian studies of net community production: assessing the effect of diel and multi-day non-steady state factors and vertical fluxes, J. Geophys. Res. Biogeosciences., in revision
 
 <br>
 
 ### Peer-reviewed paper
 --------------
++ **Song, H.**, J. Marshall, J-M Campin and D. J. McGillicuddy: Impact of near-inertial waves on vertical mixing and air-sea CO2 fluxes in the Southern Ocean. _J. Geophys. Res. Oceans._, accepted
+
 + Doddridge, E. W., J. Marshall, **H. Song**, M. Kelley and L. Nazarenko: Eddy compensation dampens Southern Ocean SST response to westerly wind trends. _Geophys. Res. Lett._, 46, 4365-4377
 
 + Kelly, T, R. Goericke, M. Kahru, **H. Song** and M. R. Stukel: CCE II: Spatial and interannual variability in export efficiency and the biological pump in an eastern boundary current upwelling system with substantial lateral advection. _Deep-Sea Res. Pt I_, 140, 14-25
