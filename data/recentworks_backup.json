@@ -27,11 +27,11 @@
         "id": 2,
         "name": "Our new lab members!",
         "image": "images/STOCK_Welcome3.jpg",
-        "url": "news/newmember_3",
+        "url": "news/newmember_4",
         "items": [
             {
                 "name": "Read More",
-                "url": "news/newmember_3"
+                "url": "news/newmember_4"
             }
         ]
     },
