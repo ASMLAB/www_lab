@@ -5,16 +5,11 @@ type = "publication"
 weight = 4
 +++
 
-### Manuscripts under review
-------------
-+ Seo, H., A. C. Subramanian, **Song, H.**, Chowdary, J. S.: Coupled effects of ocean current on wind stress in the Bay of Bengal: Eddy energetics and upper ocean stratification, Deep Sea Research II, in revision
-
-+ Seaver Wang, Sven Kranz, Thomas Kelly, **Hajoon Song**, Michael Stukel, Nicolas Cassar: Lagrangian studies of net community production: assessing the effect of diel and multi-day non-steady state factors and vertical fluxes, J. Geophys. Res. Biogeosciences., in revision
-
-<br>
 
 ### Peer-reviewed paper
 --------------
++ Seo, H., A. C. Subramanian, **Song, H.**, Chowdary, J. S.: Coupled effects of ocean current on wind stress in the Bay of Bengal: Eddy energetics and upper ocean stratification, Deep Sea Research II, in revision
+
 + **Song, H.**, J. Marshall, J-M Campin and D. J. McGillicuddy: Impact of near-inertial waves on vertical mixing and air-sea CO2 fluxes in the Southern Ocean. _J. Geophys. Res. Oceans._, accepted
 
 + Doddridge, E. W., J. Marshall, **H. Song**, M. Kelley and L. Nazarenko: Eddy compensation dampens Southern Ocean SST response to westerly wind trends. _Geophys. Res. Lett._, 46, 4365-4377
@@ -56,3 +51,11 @@ weight = 4
 + **Song, H.**, A. J. Miller, B. D. Cornuelle and E. Di Lorenzo (2011), Changes in upwelling and its water sources in the California Current System driven by different wind forcing. _Dynam. Atmos. Oceans._, 12, 170-191
 
 + **Song, H.**, I. Hoteit, B. D. Cornuelle and A. C. Subramanian (2010), An adaptive approach to mitigate background covariance limitations in the ensemble Kalman filter. _Mon. Wea. Rev._, 138, 2825-2845
+
+<br>
+
+### Manuscripts under review
+------------
++ Seaver Wang, Sven Kranz, Thomas Kelly, **Hajoon Song**, Michael Stukel, Nicolas Cassar: Lagrangian studies of net community production: assessing the effect of diel and multi-day non-steady state factors and vertical fluxes, J. Geophys. Res. Biogeosciences., in revision
+
+
