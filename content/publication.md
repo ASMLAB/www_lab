@@ -8,9 +8,9 @@ weight = 4
 
 ### Peer-reviewed paper
 --------------
-+ Seo, H., A. C. Subramanian, **Song, H.**, Chowdary, J. S.: Coupled effects of ocean current on wind stress in the Bay of Bengal: Eddy energetics and upper ocean stratification, Deep Sea Research II, in revision
++ Seo, H., A. C. Subramanian, **Song, H.**, Chowdary, J. S.: Coupled effects of ocean current on wind stress in the Bay of Bengal: Eddy energetics and upper ocean stratification, Deep Sea Research II, in press
 
-+ **Song, H.**, J. Marshall, J-M Campin and D. J. McGillicuddy: Impact of near-inertial waves on vertical mixing and air-sea CO2 fluxes in the Southern Ocean. _J. Geophys. Res. Oceans._, accepted
++ **Song, H.**, J. Marshall, J-M Campin and D. J. McGillicuddy: Impact of near-inertial waves on vertical mixing and air-sea CO2 fluxes in the Southern Ocean. _J. Geophys. Res. Oceans._, 124, 4605–4617
 
 + Doddridge, E. W., J. Marshall, **H. Song**, M. Kelley and L. Nazarenko: Eddy compensation dampens Southern Ocean SST response to westerly wind trends. _Geophys. Res. Lett._, 46, 4365-4377
 
