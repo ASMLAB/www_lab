@@ -2,7 +2,7 @@
 title = "Ajin Cho"
 nickname = "ajincho"
 date = "2018-04-08T13:39:46+02:00"
-banner = "images/group/AJIN_resized.png"
+banner = "images/group/AJIN.jpg"
 email = "ajinn05@naver.com"
 job = "Assistant Researcher"
 phone = "+82-2-2123-2579"
