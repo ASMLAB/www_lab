@@ -5,6 +5,16 @@ type = "group"
 
 ## Group Photos
 <br>
+
+##### DEC 26th, 2019
+<div class='image'>
+<img src="/images/Group_photo_20191226.jpeg" class="img-responsive; width:40%;" alt="">
+</div>
+<br>
+
+
+
+
 ##### June 26th, 2019
 <div class='image'>
 <img src="/images/group_med.jpeg" class="img-responsive; width:40%;" alt="">
