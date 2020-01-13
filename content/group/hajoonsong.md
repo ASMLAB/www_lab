@@ -34,6 +34,8 @@ weight = 1
 + 2005 : Research assistant, Korea Institute of Ocean Science & Technology, Ansan, Korea
 
 #### Teaching
-+ Air-sea interaction (ATM2106)
++ Air-sea interaction (ATM8111)
 + Ocean Modeling (ATM9107)
 + Programming in Meteorology (ATM4110)
++ Physical Oceanography (ATM3111)
++ Atmospheric and Oceanic circulation (ATM2106)
